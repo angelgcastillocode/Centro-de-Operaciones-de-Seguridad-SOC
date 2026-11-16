@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Agentes y contexto interno
+.agents/
+AGENTS.md
+CONTEXTO_PROYECTO.md
+
+# Documentación y entregas académicas
+Documentacion IA.pdf
+U2_Act6_ProyectoUnidad*
+
+# Entornos, IDEs y sistema operativo
+.vscode/
+.idea/
+.env
+.DS_Store
+Thumbs.db
